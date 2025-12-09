@@ -1,5 +1,5 @@
 
-name: 优酷-L1
+name: 优酷-L1-mod
 
 on: 
   workflow_dispatch:
